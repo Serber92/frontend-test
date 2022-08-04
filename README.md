@@ -48,13 +48,6 @@ yarn export
 * Take cues from the project's folder structure to organize code.
 * Avoid dependencies which are not already included in the project, if possible.
 
-##### Submit your work
-
-Please submit your work following one of the three options:
-* Host the contents of your `out` directory and send us the URL.
-* Zip the contents of your `out` directory and attach in an email.
-* Provide us with the URL of your fork of this repo and let us know when it is ready to review.
-
 ## Style Guide
 
 ![alt Style Guide](https://github.com/rehashstudio/front-end-code-challenge/blob/main/style_guide.png?raw=true)
